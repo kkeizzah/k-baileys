@@ -13,10 +13,10 @@
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
   "files": [
-    "lib/*",
+    "src/*",
     "WAProto/*",
     "engine-requirements.js"
   ],
